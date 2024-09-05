@@ -6,4 +6,4 @@ Spotify API Webpage:
 [https://youtube.com/watch?v=6KCeczVR30M](https://youtube.com/watch?v=6KCeczVR30M)
 
 Chess Engine:
-[https://youtu.be/6AbY2r8Wnno](https://youtu.be/6AbY2r8Wnno)
+[https://youtube.com/watch?v=6AbY2r8Wnno](https://youtube.com/watch?v=6AbY2r8Wnno)
